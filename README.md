@@ -1,16 +1,30 @@
-## Hi there 👋
+# Daniel Leniz
 
-<!--
-**DanielLeniz/DanielLeniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security-focused IT professional building hands-on experience in threat detection, log analysis, and network security through homelab projects.
 
-Here are some ideas to get you started:
+Currently pursuing an M.S. in Computer Science and developing practical skills aligned with SOC Analyst and Security Analyst roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+**Active Directory Threat Detection Lab**  
+Simulated identity-based attacks and analyzed Windows Security Event logs to identify suspicious account creation and privilege escalation patterns.
+
+**Network Intrusion Detection Lab (pfSense + Suricata)**  
+Built segmented virtual network and investigated IDS alerts generated from simulated reconnaissance traffic.
+
+**SSH Log Analyzer**  
+Developed script to identify brute-force login behavior from Linux authentication logs.
+
+**Malware Analysis Lab**  
+Analyzed malware behavior in isolated VM to identify persistence mechanisms and system modifications.
+
+**Pi-hole DNS Security Lab**  
+Configured DNS filtering environment to monitor and block suspicious domain requests.
+
+---
+
+## Tools
+
+Splunk • Wireshark • Suricata • pfSense • Active Directory • VirtualBox • Linux • Windows • Python
