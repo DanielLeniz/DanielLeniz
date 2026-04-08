@@ -20,4 +20,4 @@ Built segmented virtual network and investigated IDS alerts generated from simul
 
 ## Tools
 
-Splunk • Wireshark • Suricata • pfSense • Active Directory • VirtualBox • Linux • Windows • Python
+Wireshark • Suricata • pfSense • Active Directory • VirtualBox • Linux • Windows • Python
