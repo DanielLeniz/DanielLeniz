@@ -8,9 +8,9 @@ Currently pursuing an M.S. in Computer Science and developing practical skills a
 
 ## Projects
 
-**Active Directory Threat Detection Lab**: [Active-Directory-Project](https://github.com/DanielLeniz/Active-Directory-Project)
+**Enterprise Active Directory Security Lab**: [Active-Directory-Project](https://github.com/DanielLeniz/Active-Directory-Project)
 
-Simulated identity-based attacks and analyzed Windows Security Event logs to identify suspicious account creation and privilege escalation patterns.
+Simulated enterprise Active Directory environment with RBAC, Group Policy, and security log analysis to detect privilege escalation and abnormal authentication behavior.
 
 **Network Intrusion Detection Lab with pfSense & Suricata**: [pfSense-Suricata-IDS](https://github.com/DanielLeniz/pfSense-Suricata-IDS)
 
