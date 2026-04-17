@@ -16,6 +16,10 @@ Simulated enterprise Active Directory environment with RBAC, Group Policy, and s
 
 Built segmented virtual network and investigated IDS alerts generated from simulated reconnaissance traffic.
 
+Malware Analysis Lab: [Malware-Analysis-Lab](https://github.com/DanielLeniz/Malware-Analysis)
+
+Analyzed Windows malware sample using static and dynamic analysis techniques to identify persistence mechanisms, defense evasion behavior, and indicators of compromise.
+
 ---
 
 ## Tools
